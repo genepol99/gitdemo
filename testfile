@@ -1,0 +1,3 @@
+test_text
+test_text_response
+test_confirmation
