@@ -1,2 +1,1 @@
-# gitdemo
-This is my Git demo
+iPhone chargers produce Apple juice
